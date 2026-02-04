@@ -1,9 +1,6 @@
 {
   "active": true,
   "expired_at": "2025-12-31T23:59:59.000Z",
-  "owner": "Daffa",
-  "bot_name": "VoidStrom Bot",
-  "version": "2.0.0",
   "allowed_numbers": [
     "6288809023312",
     "6285137924486",
@@ -20,21 +17,5 @@
     "628217717682",
     "62890088397377",
     "6283143726466"
-  ],
-  "features": [
-    "sticker",
-    "welcome_message",
-    "media_download",
-    "ai_chat",
-    "admin_tools"
-  ],
-  "settings": {
-    "auto_reply": true,
-    "anti_link": true,
-    "auto_download": true,
-    "max_groups": 50
-  },
-  "contact": "628xxxxxxxxxx",
-  "created_at": "2024-01-01T00:00:00.000Z",
-  "notes": "Bot aktif untuk nomor yang terdaftar hingga 31 Desember 2025"
+  ]
 }
