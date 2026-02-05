@@ -1,7 +1,6 @@
-
 {
   "active": true,
-  "expired_at": "2025-12-31T23:59:59.999Z",
-  "note": "Linux £ex invisible",
+  "expired_at": "2025-03-11T23:59:59.999+07:00",
+  "note": "Bot license for WhatsApp",
   "version": "1.0.0"
 }
