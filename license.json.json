@@ -1,1 +1,4 @@
-{"active":true,"expired_at":"2026-03-02T23:59:59Z"}
+{
+  "active": true,
+  "expired_at": "2026-03-02T23:59:59Z"  // Format ISO (direkomendasikan)
+}
